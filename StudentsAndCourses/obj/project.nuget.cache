@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RaPnhonxxJDvHiiBOXH7jmRgL/P46itgV9K7kJNOBoHOk3iz2wf0D1RVRLyVfDhl8No6rEfHeocLNJQS81J79g==",
+  "success": true,
+  "projectFilePath": "/Users/lisakirillova/Desktop/C#/StudentsAndCourses/StudentsAndCourses/StudentsAndCourses.csproj",
+  "expectedPackageFiles": [
+    "/Users/lisakirillova/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/lisakirillova/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/lisakirillova/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.18/microsoft.netcore.app.host.osx-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

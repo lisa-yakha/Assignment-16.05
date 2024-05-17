@@ -1,0 +1,14 @@
+/Users/lisakirillova/Desktop/C#/StudentsAndCourses/StudentsAndCourses/bin/Debug/net7.0/StudentsAndCourses
+/Users/lisakirillova/Desktop/C#/StudentsAndCourses/StudentsAndCourses/bin/Debug/net7.0/StudentsAndCourses.deps.json
+/Users/lisakirillova/Desktop/C#/StudentsAndCourses/StudentsAndCourses/bin/Debug/net7.0/StudentsAndCourses.runtimeconfig.json
+/Users/lisakirillova/Desktop/C#/StudentsAndCourses/StudentsAndCourses/bin/Debug/net7.0/StudentsAndCourses.dll
+/Users/lisakirillova/Desktop/C#/StudentsAndCourses/StudentsAndCourses/bin/Debug/net7.0/StudentsAndCourses.pdb
+/Users/lisakirillova/Desktop/C#/StudentsAndCourses/StudentsAndCourses/obj/Debug/net7.0/StudentsAndCourses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisakirillova/Desktop/C#/StudentsAndCourses/StudentsAndCourses/obj/Debug/net7.0/StudentsAndCourses.AssemblyInfoInputs.cache
+/Users/lisakirillova/Desktop/C#/StudentsAndCourses/StudentsAndCourses/obj/Debug/net7.0/StudentsAndCourses.AssemblyInfo.cs
+/Users/lisakirillova/Desktop/C#/StudentsAndCourses/StudentsAndCourses/obj/Debug/net7.0/StudentsAndCourses.csproj.CoreCompileInputs.cache
+/Users/lisakirillova/Desktop/C#/StudentsAndCourses/StudentsAndCourses/obj/Debug/net7.0/StudentsAndCourses.dll
+/Users/lisakirillova/Desktop/C#/StudentsAndCourses/StudentsAndCourses/obj/Debug/net7.0/refint/StudentsAndCourses.dll
+/Users/lisakirillova/Desktop/C#/StudentsAndCourses/StudentsAndCourses/obj/Debug/net7.0/StudentsAndCourses.pdb
+/Users/lisakirillova/Desktop/C#/StudentsAndCourses/StudentsAndCourses/obj/Debug/net7.0/StudentsAndCourses.genruntimeconfig.cache
+/Users/lisakirillova/Desktop/C#/StudentsAndCourses/StudentsAndCourses/obj/Debug/net7.0/ref/StudentsAndCourses.dll
